@@ -19,12 +19,12 @@ Adjust the text variable with the narrative or text you want to summarize.
 
 Run the script to generate a summary using the BART-large-CNN model.
 
-Notes
+# Notes
 Ensure you have an active internet connection, as the BART-large-CNN model is loaded from the Hugging Face model hub.
 Credits
 This project is based on the Hugging Face Transformers library. For more information, refer to the Hugging Face Transformers documentation.
 
-License
+# License
 This project is open-source and distributed under the MIT License.
 
 Feel free to contribute, report issues, or suggest improvements!
